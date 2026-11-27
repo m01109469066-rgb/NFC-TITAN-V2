@@ -1,0 +1,66 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC TITAN V2</string>
+    <string name="app_subtitle">Advanced NFC Analyzer</string>
+
+    <string name="welcome">مرحباً بك</string>
+    <string name="home">الرئيسية</string>
+    <string name="scan">فحص NFC</string>
+    <string name="history">سجل الفحوصات</string>
+    <string name="comparison">مقارنة الفحوصات</string>
+    <string name="reports">التقارير</string>
+    <string name="settings">الإعدادات</string>
+    <string name="about">حول التطبيق</string>
+
+    <string name="system_status">حالة النظام</string>
+    <string name="nfc_ready">جاهز للفحص</string>
+    <string name="nfc_disabled">NFC متوقف</string>
+    <string name="nfc_unsupported">هذا الجهاز لا يدعم NFC</string>
+    <string name="enable_nfc">تشغيل NFC من الإعدادات</string>
+
+    <string name="start_scan">ابدأ الفحص</string>
+    <string name="stop_scan">إيقاف الفحص</string>
+    <string name="bring_tag_near">قرّب بطاقة NFC من الهاتف</string>
+    <string name="scanning">جاري انتظار البطاقة...</string>
+    <string name="scan_completed">اكتمل الفحص</string>
+    <string name="scan_failed">تعذر إكمال الفحص</string>
+
+    <string name="tag_id">معرّف البطاقة</string>
+    <string name="technologies">التقنيات المدعومة</string>
+    <string name="ndef_status">حالة NDEF</string>
+    <string name="ndef_available">بيانات NDEF متاحة</string>
+    <string name="ndef_unavailable">لا توجد بيانات NDEF مقروءة</string>
+    <string name="records">السجلات</string>
+
+    <string name="empty_history">لا توجد فحوصات محفوظة</string>
+    <string name="clear_history">مسح السجل</string>
+    <string name="compare">مقارنة</string>
+
+    <string name="export">تصدير</string>
+    <string name="import">استيراد</string>
+    <string name="backup">نسخ احتياطي</string>
+    <string name="restore">استعادة نسخة احتياطية</string>
+    <string name="create_report">إنشاء تقرير PDF</string>
+    <string name="report_saved">تم حفظ التقرير</string>
+
+    <string name="language">لغة التطبيق</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="animations">تفعيل الحركات</string>
+    <string name="sound">تفعيل الأصوات</string>
+    <string name="auto_save">الحفظ التلقائي</string>
+
+    <string name="confirm">تأكيد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="success">تم بنجاح</string>
+    <string name="error">حدث خطأ</string>
+
+    <string name="app_version">الإصدار 2.0</string>
+    <string name="offline_mode">يعمل دون اتصال بالإنترنت</string>
+
+</resources>
+      
