@@ -1,0 +1,65 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC TITAN V2</string>
+    <string name="app_subtitle">Advanced NFC Analyzer</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="scan">NFC Scan</string>
+    <string name="history">Scan History</string>
+    <string name="comparison">Scan Comparison</string>
+    <string name="reports">Reports</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+    <string name="system_status">System Status</string>
+    <string name="nfc_ready">Ready to scan</string>
+    <string name="nfc_disabled">NFC is disabled</string>
+    <string name="nfc_unsupported">This device does not support NFC</string>
+    <string name="enable_nfc">Enable NFC in Settings</string>
+
+    <string name="start_scan">Start Scanning</string>
+    <string name="stop_scan">Stop Scanning</string>
+    <string name="bring_tag_near">Bring an NFC tag close to the phone</string>
+    <string name="scanning">Waiting for a tag...</string>
+    <string name="scan_completed">Scan completed</string>
+    <string name="scan_failed">Scan failed</string>
+
+    <string name="tag_id">Tag ID</string>
+    <string name="technologies">Technologies</string>
+    <string name="ndef_status">NDEF Status</string>
+    <string name="ndef_available">NDEF data available</string>
+    <string name="ndef_unavailable">No readable NDEF data</string>
+    <string name="records">Records</string>
+
+    <string name="empty_history">No saved scans</string>
+    <string name="clear_history">Clear History</string>
+    <string name="compare">Compare</string>
+
+    <string name="export">Export</string>
+    <string name="import">Import</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore Backup</string>
+    <string name="create_report">Create PDF Report</string>
+    <string name="report_saved">Report saved</string>
+
+    <string name="language">App Language</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="animations">Enable Animations</string>
+    <string name="sound">Enable Sounds</string>
+    <string name="auto_save">Auto Save</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="success">Success</string>
+    <string name="error">An error occurred</string>
+
+    <string name="app_version">Version 2.0</string>
+    <string name="offline_mode">Works offline</string>
+
+</resources>
